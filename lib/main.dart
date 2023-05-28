@@ -39,7 +39,7 @@ class HomeScreen extends StatelessWidget {
         ],
         elevation: 0,
         title: const Text(
-          "Materials",
+          "Mat",
           style: TextStyle(
               fontSize: 24,
               color: Color(0xFF21242D),
