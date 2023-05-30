@@ -78,25 +78,32 @@ flutter:
   fonts:
     - family: Poppins
       fonts:
-        - asset: assets/fonts/Montserrat-Black.ttf
-        - asset: assets/fonts/Montserrat-BlackItalic.ttf
-        - asset: assets/fonts/Montserrat-Bold.ttf
-        - asset: assets/fonts/Montserrat-BlackItalic.ttf
-        - asset: assets/fonts/Montserrat-ExtraBold.ttf
-        - asset: assets/fonts/Montserrat-ExtraBoldItalic.ttf
-        - asset: assets/fonts/Montserrat-ExtraLight.ttf
-        - asset: assets/fonts/Montserrat-ExtraLightItalic.ttf
-        - asset: assets/fonts/Montserrat-Italic.ttf
-        - asset: assets/fonts/Montserrat-Light.ttf
-        - asset: assets/fonts/Montserrat-LightItalic.ttf
-        - asset: assets/fonts/Montserrat-Medium.ttf
-        - asset: assets/fonts/Montserrat-MediumItalic.ttf
-        - asset: assets/fonts/Montserrat-Regular.ttf
-        - asset: assets/fonts/Montserrat-SemiBold.ttf
-        - asset: assets/fonts/Montserrat-SemiBoldItalic.ttf
-        - asset: assets/fonts/Montserrat-Thin.ttf
-        - asset: assets/fonts/Montserrat-ThinItalic.ttf
-
+        - asset: assets/fonts/Poppins/Montserrat-Black.ttf
+        - asset: assets/fonts/Poppins/Montserrat-BlackItalic.ttf
+        - asset: assets/fonts/Poppins/Montserrat-Bold.ttf
+        - asset: assets/fonts/Poppins/Montserrat-BlackItalic.ttf
+        - asset: assets/fonts/Poppins/Montserrat-ExtraBold.ttf
+        - asset: assets/fonts/Poppins/Montserrat-ExtraBoldItalic.ttf
+        - asset: assets/fonts/Poppins/Montserrat-ExtraLight.ttf
+        - asset: assets/fonts/Poppins/Montserrat-ExtraLightItalic.ttf
+        - asset: assets/fonts/Poppins/Montserrat-Italic.ttf
+        - asset: assets/fonts/Poppins/Montserrat-Light.ttf
+        - asset: assets/fonts/Poppins/Montserrat-LightItalic.ttf
+        - asset: assets/fonts/Poppins/Montserrat-Medium.ttf
+        - asset: assets/fonts/Poppins/Montserrat-MediumItalic.ttf
+        - asset: assets/fonts/Poppins/Montserrat-Regular.ttf
+        - asset: assets/fonts/Poppins/Montserrat-SemiBold.ttf
+        - asset: assets/fonts/Poppins/Montserrat-SemiBoldItalic.ttf
+        - asset: assets/fonts/Poppins/Montserrat-Thin.ttf
+        - asset: assets/fonts/Poppins/Montserrat-ThinItalic.ttf
+    - family: DM Sans
+      fonts:
+        - asset: assets/fonts/DmSans/DMSans-Bold.ttf
+        - asset: assets/fonts/DmSans/DMSans-BoldItalic.ttf
+        - asset: assets/fonts/DmSans/DMSans-Italic.ttf
+        - asset: assets/fonts/DmSans/DMSans-Medium.ttf
+        - asset: assets/fonts/DmSans/DMSans-MediumItalic.ttf
+        - asset: assets/fonts/DmSans/DMSans-Regular.ttf
 
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
