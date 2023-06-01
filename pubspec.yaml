@@ -96,16 +96,16 @@ flutter:
         - asset: assets/fonts/Poppins/Montserrat-SemiBoldItalic.ttf
         - asset: assets/fonts/Poppins/Montserrat-Thin.ttf
         - asset: assets/fonts/Poppins/Montserrat-ThinItalic.ttf
-    - family: DM Sans
-      fonts:
-        - asset: assets/fonts/DmSans/DMSans-Bold.ttf
-        - asset: assets/fonts/DmSans/DMSans-BoldItalic.ttf
-        - asset: assets/fonts/DmSans/DMSans-Italic.ttf
-        - asset: assets/fonts/DmSans/DMSans-Medium.ttf
-        - asset: assets/fonts/DmSans/DMSans-MediumItalic.ttf
-        - asset: assets/fonts/DmSans/DMSans-Regular.ttf
-    - family: BentonSans Bold
-      fonts:
-        - asset: assets/fonts/BentonSansBold/BentonSans-Bold.otf
+#    - family: DM Sans
+#      fonts:
+#        - asset: assets/fonts/DmSans/DMSans-Bold.ttf
+#        - asset: assets/fonts/DmSans/DMSans-BoldItalic.ttf
+#        - asset: assets/fonts/DmSans/DMSans-Italic.ttf
+#        - asset: assets/fonts/DmSans/DMSans-Medium.ttf
+#        - asset: assets/fonts/DmSans/DMSans-MediumItalic.ttf
+#        - asset: assets/fonts/DmSans/DMSans-Regular.ttf
+#    - family: BentonSans Bold
+#      fonts:
+#        - asset: assets/fonts/BentonSansBold/BentonSans-Bold.otf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

@@ -2,11 +2,10 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 class MyColor {
-  static const Color C_white=Colors.white;
-  static const Color C_53E88B = Color(0xFF53E88B);
-  static const Color C_15BE77 = Color(0xFF15BE77);
-  static const Color C_09051C = Color(0xFF09051C);
-  static const Color C_3B3B3B = Color(0xFF3B3B3B);
-  static const Color C_black = Colors.black;
-  static const Color C_FEFEFF = Color(0xFFFEFEFF);
+  static const Color C_21242D=Color(0xFF21242D);
+  static const Color C_121214=Color(0xFF121214);
+  static const Color C_E4E6EA=Color(0xFFE4E6EA);
+  static const Color C_458CFF=Color(0xFF458CFF);
+  static const Color C_757C8E=Color(0xFF757C8E);
+  static const Color C_FFFFFF=Color(0xFFFFFFFF);
 }
